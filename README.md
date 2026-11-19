@@ -6,6 +6,12 @@ A responsive two-page personal profile website built with Nuxt 4, Vue 3, TypeScr
 
 - `/` - homepage, welcome message, introduction, and profile card
 - `/profile` - personal information, education, skills, interests, and hobbies
+  
+## Screenshots
+
+![Index Page](screenshots/index.png)
+
+![Profile Page](screenshots/profile.png)
 
 ## Setup
 
