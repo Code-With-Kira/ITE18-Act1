@@ -9,7 +9,7 @@ A responsive two-page personal profile website built with Nuxt 4, Vue 3, TypeScr
   
 ## Screenshots
 
-![Index Page](screenshots/index.png)
+![Index Page](screenshots/index..png)
 
 ![Profile Page](screenshots/profile.png)
 
